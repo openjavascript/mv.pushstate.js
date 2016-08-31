@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/openjavascript/mv.pushstate.js/issues"
   },
-  "homepage": "https://github.com/openjavascript/mv.pushstate.js#readme"
+  "homepage": "https://github.com/openjavascript/mv.pushstate.js#readme",
+  "dependencies": {
+    "mv.js": "^1.0.1"
+  }
 }
